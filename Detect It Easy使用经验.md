@@ -1,0 +1,23 @@
+1.查看程序打包exe工具
+
+2.查看pe文件16进制
+
+3.查看pe文件加载的dll（静态），火绒或者openark  iMonitor冰镜  、 冰盾、 冰鉴可以查看动态dll注入，iMonitor可以过滤导入表只查看非系统的导入很方便，查看导入的表
+
+![image-20240831231658880](D:\DemoWorkSpace\reverse\assets\image-20240831231658880.png)
+
+
+
+
+
+4.导出资源，资源导出后是bin文件可以根据分析出来的扩展名手动修改后，使用对应文件打开即可查看，可以配合16进制查看文件头，分析是什么文件
+
+![image-20240831231036238](D:\DemoWorkSpace\reverse\assets\image-20240831231036238.png)
+
+5.查看版本和资源
+
+![image-20240831231404086](D:\DemoWorkSpace\reverse\assets\image-20240831231404086.png)
+
+6.查看16进制和字符串模式的附加信息
+
+![image-20240831231545733](D:\DemoWorkSpace\reverse\assets\image-20240831231545733.png)
