@@ -6,6 +6,8 @@
 - https://weujieytt.github.io/2022/07/29/JS%E9%80%86%E5%90%91-WebPack%E5%AE%9E%E6%88%98%EF%BC%88%E4%B8%80%EF%BC%89/
 
 ## 新手
+- https://www.52pojie.cn/thread-1613466-1-1.html
 - https://www.52pojie.cn/thread-1723802-1-1.html
+- https://www.52pojie.cn/thread-2014743-1-1.html
 - https://www.52pojie.cn/thread-2012536-1-1.html
 - ### 文章中是全量copy了文件中的代码
