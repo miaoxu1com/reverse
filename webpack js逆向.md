@@ -15,5 +15,5 @@
 - site:52pojie.cn webpack
 - https://www.52pojie.cn/thread-2015243-1-1.html
 - https://www.52pojie.cn/thread-2010844-1-1.html
-- 自动扣取
+- 自动扣取,一定要按照文档中的顺序否则会导致扣的代码不全，运行报错
 - http://theonetop.icu/2024/04/26/webpack%E8%87%AA%E5%8A%A8%E6%89%A3%E5%8F%96js%E6%A8%A1%E5%9D%97/
