@@ -1,3 +1,5 @@
 - https://blog.csdn.net/qq_36078992/article/details/114484218
 - https://blog.csdn.net/weixin_43411585/article/details/122265150?utm_medium=distribute.pc_feed_v2.none-task-blog-hot-13.pc_personrecdepth_1-utm_source=distribute.pc_feed_v2.none-task-blog-hot-13.pc_personrec
 - https://xz.aliyun.com/news/17198
+- 登录请求一定是post请求，且一定会有payload，且一定包含登录用户和密码
+- F12开发者工具中的匿名代表的是匿名函数，有符号的代表的是命名函数，调用堆栈，只有js才会有调用堆栈，才会有函数，才能定义函数，现在很多网站都是js文件post请求登录，docment文档只有加载文件列表，没有堆栈，document post登录也是要定位到加载的js文件请求函数
