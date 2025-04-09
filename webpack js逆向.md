@@ -7,6 +7,8 @@
 - https://www.52pojie.cn/thread-1913553-1-1.html
 - https://www.52pojie.cn/thread-2022463-1-1.html
 - https://www.52pojie.cn/thread-2022022-1-1.html
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=1823993&extra=page%3D1%26filter%3Dtypeid%26typeid%3D378
+
 
 ## 新手
 - https://www.52pojie.cn/thread-1613466-1-1.html
