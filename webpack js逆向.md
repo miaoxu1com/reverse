@@ -14,6 +14,7 @@
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=1746820&extra=page%3D1%26filter%3Dtypeid%26typeid%3D378
 - https://www.52pojie.cn/thread-1446387-1-1.html
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=2017304&extra=page%3D2%26filter%3Dtypeid%26typeid%3D378
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=1648410&extra=page%3D2%26filter%3Dtypeid%26typeid%3D378
 
 ## 猿人学
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=1726459&extra=page%3D2%26filter%3Dtypeid%26typeid%3D378
