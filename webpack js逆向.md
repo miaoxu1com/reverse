@@ -12,7 +12,9 @@
 - https://www.cnblogs.com/ikdl/p/15188503.html
 - https://www.52pojie.cn/forum.php?mod=viewthread&tid=1967050&extra=page%3D1%26filter%3Dtypeid%26typeid%3D378
 
-
+## 猿人学
+- https://www.52pojie.cn/forum.php?mod=viewthread&tid=1726459&extra=page%3D2%26filter%3Dtypeid%26typeid%3D378
+- https://www.52pojie.cn/thread-1639885-1-1.html
 ## 新手
 - https://www.52pojie.cn/thread-1484444-1-1.html
 - https://www.52pojie.cn/thread-1613466-1-1.html
