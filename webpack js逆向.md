@@ -13,6 +13,7 @@
 
 
 ## 新手
+- https://www.52pojie.cn/thread-1484444-1-1.html
 - https://www.52pojie.cn/thread-1613466-1-1.html
 - https://www.52pojie.cn/thread-1723802-1-1.html
 - https://www.52pojie.cn/thread-2014743-1-1.html
